@@ -57,11 +57,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+   
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -79,19 +75,6 @@ Small marble rolling game made with Blueprints in Unreal Engine.
 
 * [Unreal Engine](https://unrealengine.com)
 
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
-### Installation
-
-## Usage
-
-## Contact
 
 
 Project Link: [https://github.com/BeeBeeCue/MarbleRun](https://github.com/BeeBeeCue/MarbleRun)
