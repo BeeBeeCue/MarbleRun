@@ -18,23 +18,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/BeeBeeCue/UnrealBlueprintsTest">
+  <a href="https://github.com/BeeBeeCue/MarbleRun">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">UnrealBlueprintsTest</h3>
+  <h3 align="center">MarbleRun</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/BeeBeeCue/UnrealBlueprintsTest"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BeeBeeCue/MarbleRun"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BeeBeeCue/UnrealBlueprintsTest">View Demo</a>
+    <a href="https://github.com/BeeBeeCue/MarbleRun">View Demo</a>
     ·
-    <a href="https://github.com/BeeBeeCue/UnrealBlueprintsTest/issues">Report Bug</a>
+    <a href="https://github.com/BeeBeeCue/MarbleRun/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BeeBeeCue/UnrealBlueprintsTest/issues">Request Feature</a>
+    <a href="https://github.com/BeeBeeCue/MarbleRun/issues">Request Feature</a>
   </p>
 </p>
 
@@ -103,7 +103,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Contact
 
 
-Project Link: [https://github.com/BeeBeeCue/UnrealBlueprintsTest](https://github.com/BeeBeeCue/UnrealBlueprintsTest)
+Project Link: [https://github.com/BeeBeeCue/MarbleRun](https://github.com/BeeBeeCue/MarbleRun)
 
 
 
@@ -119,16 +119,16 @@ Project Link: [https://github.com/BeeBeeCue/UnrealBlueprintsTest](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BeeBeeCue/UnrealBlueprintsTest.svg?style=for-the-badge
-[contributors-url]: https://github.com/BeeBeeCue/UnrealBlueprintsTest/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BeeBeeCue/UnrealBlueprintsTest.svg?style=for-the-badge
-[forks-url]: https://github.com/BeeBeeCue/UnrealBlueprintsTest/network/members
-[stars-shield]: https://img.shields.io/github/stars/BeeBeeCue/UnrealBlueprintsTest.svg?style=for-the-badge
-[stars-url]: https://github.com/BeeBeeCue/UnrealBlueprintsTest/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BeeBeeCue/UnrealBlueprintsTest.svg?style=for-the-badge
-[issues-url]: https://github.com/BeeBeeCue/UnrealBlueprintsTest/issues
-[license-shield]: https://img.shields.io/github/license/BeeBeeCue/UnrealBlueprintsTest.svg?style=for-the-badge
-[license-url]: https://github.com/BeeBeeCue/UnrealBlueprintsTest/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BeeBeeCue/MarbleRun.svg?style=for-the-badge
+[contributors-url]: https://github.com/BeeBeeCue/MarbleRun/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BeeBeeCue/MarbleRun.svg?style=for-the-badge
+[forks-url]: https://github.com/BeeBeeCue/MarbleRun/network/members
+[stars-shield]: https://img.shields.io/github/stars/BeeBeeCue/MarbleRun.svg?style=for-the-badge
+[stars-url]: https://github.com/BeeBeeCue/MarbleRun/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BeeBeeCue/MarbleRun.svg?style=for-the-badge
+[issues-url]: https://github.com/BeeBeeCue/MarbleRun/issues
+[license-shield]: https://img.shields.io/github/license/BeeBeeCue/MarbleRun.svg?style=for-the-badge
+[license-url]: https://github.com/BeeBeeCue/MarbleRun/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/k-knutsen
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/marbleRun.png
